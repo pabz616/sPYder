@@ -12,5 +12,5 @@ $ brew install python3
 ```javascript
 $ brew install selenium-server-standalone
 ```
-> 3. User your the python IDE (Pycharm CE), or Sublime 3.
+> 3. Use the python IDE (Pycharm CE), the terminal, or Sublime 3.
 > 4. Have at it with the script and customize to your project.
